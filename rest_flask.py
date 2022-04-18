@@ -5,7 +5,6 @@
 ##                   prototyping and rapid     ##
 ##                   development.              ##
 ##      author: Artur Juvé Vidal,              ##
-##      website: toctocroc.net,                ##
 ##      date: june 2020,                       ##
 ##      requires:[                             ##
 ##           pip install flask,                ##
